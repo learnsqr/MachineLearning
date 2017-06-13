@@ -1,8 +1,5 @@
 ## Introduction to Machine Learning
 
-## Links
-
-[Machine Learning with MatLab](https://es.mathworks.com/campaigns/products/ppc/google/machine-learning-with-matlab-conf.html?elqsid=1497186532328&potential_use=Home)
 
 ---
 
